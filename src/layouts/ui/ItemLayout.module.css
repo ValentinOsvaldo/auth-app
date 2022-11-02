@@ -1,0 +1,12 @@
+.dashboard-item {
+  background-color: #222;
+  border-radius: 1rem;
+  display: grid;
+  flex: 1 1 auto;
+  max-width: 800px;
+  overflow: hidden;
+  padding: 1rem;
+  place-items: center;
+  position: relative;
+  width: 100%;
+}

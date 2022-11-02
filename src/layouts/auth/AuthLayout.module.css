@@ -1,0 +1,17 @@
+.main-container {
+  display: grid;
+  height: 100vh;
+  padding: 1rem;
+  place-items: center;
+}
+
+.form-container {
+  margin: auto;
+  max-width: 800px;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.form-container h1 {
+  margin-top: 0;
+}

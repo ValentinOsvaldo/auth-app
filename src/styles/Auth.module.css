@@ -1,0 +1,9 @@
+.submit-button {
+  background: rgb(19, 99, 223);
+  background: linear-gradient(
+    90deg,
+    rgba(19, 99, 223, 1) 0%,
+    rgba(71, 181, 255, 1) 100%
+  );
+  width: 100%;
+}
